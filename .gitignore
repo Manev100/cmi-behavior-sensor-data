@@ -1,6 +1,9 @@
 # Data
 /data/
-/notebooks/mlruns/*
+notebooks/mlruns/*
+scripts/mlruns/*
+mlruns/*
+models/*
 
 /figures/*.png
 
