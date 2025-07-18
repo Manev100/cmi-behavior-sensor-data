@@ -1,0 +1,16 @@
+numpy 
+pandas 
+jupyter 
+matplotlib 
+seaborn 
+scikit-learn 
+pyarrow 
+polars 
+xgboost
+kaggle
+hyperopt
+category_encoders
+tqdm
+mlflow
+skrub
+statsmodels
